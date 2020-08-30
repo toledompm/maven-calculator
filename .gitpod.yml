@@ -1,1 +1,2 @@
-image: maven:latest
+image: 
+    file: docker/dockerfile
